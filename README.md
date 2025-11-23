@@ -1,17 +1,16 @@
    <h1> Hello! I'm Janniyah Jane Alano </h1>
     <p> I'm still a beginner at coding and more it related stuffs. I'm currently taking the BS Information Technology Program.
     <p></p>
-    
     <h3>Education</h3>
     <hr>
     <ul>
-  <li> BS Information Technology
-    <ul>
-      <li>New Era University</li>
-      <li>2024-Present</li>
-    </ul>
-  </li>
-  </ul>
+    <li> BS Information Technology
+      <ul>
+        <li>New Era University</li>
+        <li>2024-Present</li>
+      </ul>
+   </li>
+   </ul>
       <p></p>
     <h3>Certifications</h3>
     <hr>
