@@ -1,5 +1,4 @@
-
-    <h1> Hello! I'm Janniyah Jane Alano </h1>
+   <h1> Hello! I'm Janniyah Jane Alano </h1>
     <p> I'm still a beginner at coding and more it related stuffs. I'm currently taking the BS Information Technology Program.
     <p></p>
     
