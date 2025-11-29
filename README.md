@@ -15,6 +15,7 @@
        <hr>
     <h3>Certifications</h3>
      <a href="https://courses.cognitiveclass.ai/certificates/5cc93b00ee334bfa801740c84660fb9a">SQL and Relational Databases 101</a>
+     <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=00DC0440A89CB65873F3F559CFA07043D394CF0D3892F74AE86D7CA80122301F">Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a>
     <p></p>
         <hr>
     <h3>Skillsets</h3>
